@@ -1,16 +1,56 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**oparag-dev/oparag-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: Cloud, DevOps, and backend infrastructure projects  
+👯 I’m looking to collaborate on: Open-source projects in cloud, DevOps, platform engineering, and backend systems  
+🤝 I’m looking for help with: Kubernetes, GitOps, system design, and production-grade cloud architecture  
+🌱 I’m currently learning: AWS, Terraform, Docker, Kubernetes, Linux, CI/CD, and cloud security  
+💬 Ask me about: AWS, Terraform, networking, cloud infrastructure, provisioning assurance, and DevOps fundamentals  
+⚡ Mindset: Building with purpose, learning with discipline, and solving real problems through cloud engineering 🚀  
 
-Here are some ideas to get you started:
+# 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:oparagospel001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+# 💻 Tech Stack:
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-4053D6?logo=amazondynamodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-FF4F8B?logo=amazoncloudwatch)
+![IAM](https://img.shields.io/badge/IAM-Security-DD344C?logo=amazonaws)
+![VPC](https://img.shields.io/badge/VPC-Networking-232F3E?logo=amazonaws)
+
+# 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&layout=compact)
+
+# 🚀 Current Focus:
+
+- Building production-style AWS projects with Terraform  
+- Improving cloud security and infrastructure automation skills  
+- Learning Kubernetes, GitOps, and platform engineering practices  
+- Contributing value to beginner-friendly and infrastructure-focused open-source projects  
+- Documenting projects clearly through READMEs, diagrams, and technical write-ups  
+
+# 🧠 Engineering Principles I Care About:
+
+- Security first  
+- Cost-aware architecture  
+- Clear documentation  
+- Reliable infrastructure  
+- Scalable system design  
+- Automation over manual work  
+- Practical value over unnecessary features  
