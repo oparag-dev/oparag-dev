@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/opara-gospel)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:oparagospel001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/oparg-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/oparag-dev)
 
 # 💻 Tech Stack:
 
