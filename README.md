@@ -1,10 +1,15 @@
 # 💫 About Me:
 
 🔭 I’m currently working on: Cloud, DevOps, and backend infrastructure projects  
+
 👯 I’m looking to collaborate on: Open-source projects in cloud, DevOps, platform engineering, and backend systems  
+
 🤝 I’m looking for help with: Kubernetes, GitOps, system design, and production-grade cloud architecture  
+
 🌱 I’m currently learning: AWS, Terraform, Docker, Kubernetes, Linux, CI/CD, and cloud security  
+
 💬 Ask me about: AWS, Terraform, networking, cloud infrastructure, provisioning assurance, and DevOps fundamentals  
+
 ⚡ Mindset: Building with purpose, learning with discipline, and solving real problems through cloud engineering 🚀  
 
 # 🌐 Socials:
@@ -29,6 +34,17 @@
 ![IAM](https://img.shields.io/badge/IAM-Security-DD344C?logo=amazonaws)
 ![VPC](https://img.shields.io/badge/VPC-Networking-232F3E?logo=amazonaws)
 
+## 🚀 Featured Projects
+
+- **Multi-Tenant FinTech SaaS Backend**  
+  Serverless AWS SaaS backend with tenant isolation, Cognito authentication, DynamoDB, Lambda, API Gateway, S3 audit logs, CloudWatch, and Terraform.
+
+- **Secure Event-Driven Microservices on ECS**  
+  Four-service microservices architecture using ECS Fargate, ALB, SQS, CloudWatch, Docker, and Terraform.
+
+- **AWS Security Data Pipeline**  
+  Security-focused data pipeline project for log collection, monitoring, and cloud security analysis.
+  
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oparag-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
