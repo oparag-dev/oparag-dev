@@ -1,15 +1,10 @@
 # 💫 About Me:
 
 🔭 I’m currently working on: Cloud, DevOps, and backend infrastructure projects  
-
 👯 I’m looking to collaborate on: Open-source projects in cloud, DevOps, platform engineering, and backend systems  
-
 🤝 I’m looking for help with: Kubernetes, GitOps, system design, and production-grade cloud architecture  
-
 🌱 I’m currently learning: AWS, Terraform, Docker, Kubernetes, Linux, CI/CD, and cloud security  
-
 💬 Ask me about: AWS, Terraform, networking, cloud infrastructure, provisioning assurance, and DevOps fundamentals  
-
 ⚡ Mindset: Building with purpose, learning with discipline, and solving real problems through cloud engineering 🚀  
 
 # 🌐 Socials:
