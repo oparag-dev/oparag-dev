@@ -2,9 +2,19 @@
 
 **Cloud and DevOps Engineer | AWS | Terraform | Kubernetes | Cloud Security**
 
-I build secure, reliable, and cost-aware cloud infrastructure.
+# 💫 About Me:
 
-My background combines provisioning assurance, technical support, network operations, cloud engineering, and security. I currently work at inq. Digital Nigeria, supporting service delivery, configuration accuracy, incident resolution, and SLA performance.
+🔭 I’m currently working on: AWS infrastructure, Terraform automation, Kubernetes platforms, CI/CD pipelines, and cloud security projects  
+
+👯 I’m looking to collaborate on: Open-source projects in cloud infrastructure, DevOps, platform engineering, Kubernetes, and backend systems  
+
+🤝 I’m open to contributing to: Infrastructure automation, GitOps workflows, observability, cloud security, and developer platform projects  
+
+🌱 I’m currently deepening my skills in: Kubernetes security, GitOps, system design, observability, and production-grade cloud architecture  
+
+💬 Ask me about: AWS, Terraform, Docker, Kubernetes, CI/CD, networking, IAM, cloud infrastructure, and infrastructure troubleshooting  
+
+⚡ Mindset: Build secure systems, automate repeatable work, document decisions, and solve real infrastructure problems
 
 I hold the **AWS Certified Solutions Architect Associate** certification and build practical projects around infrastructure automation, Kubernetes, CI/CD, observability, and cloud security.
 
