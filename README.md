@@ -1,19 +1,39 @@
-# 💫 About Me:
+# Gospel Opara
 
-🔭 I’m currently working on: Cloud, DevOps, and backend infrastructure projects  
-👯 I’m looking to collaborate on: Open-source projects in cloud, DevOps, platform engineering, and backend systems  
-🤝 I’m looking for help with: Kubernetes, GitOps, system design, and production-grade cloud architecture  
-🌱 I’m currently learning: AWS, Terraform, Docker, Kubernetes, Linux, CI/CD, and cloud security  
-💬 Ask me about: AWS, Terraform, networking, cloud infrastructure, provisioning assurance, and DevOps fundamentals  
-⚡ Mindset: Building with purpose, learning with discipline, and solving real problems through cloud engineering 🚀  
+Cloud and DevOps engineer. I build AWS infrastructure with Terraform and care
+about what happens when it fails. Lagos, Nigeria.
 
-# 🌐 Socials:
-
+[![AWS SAA](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws)](https://www.linkedin.com/in/opara-gospel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/opara-gospel)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:oparagospel001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/oparag-dev)
 
-# 💻 Tech Stack:
+## What I do
+
+Provisioning assurance at inq. Nigeria, supporting the reliability of customer
+network services. Migrated customer monitoring from Elastic to Zabbix across
+150+ services, cutting fault detection from around 20 minutes to five.
+
+Outside work I build production-style AWS infrastructure, secure Kubernetes
+delivery pipelines, and cloud security tooling.
+
+## 🚀 Projects
+
+**[secure-gitops-k8s-delivery](https://github.com/oparag-dev/secure-gitops-k8s-delivery)**
+Kubernetes delivery pipeline with GitHub Actions, Argo CD, Kyverno policy
+enforcement, Prometheus and Grafana.
+
+**[Multi-Tenant FinTech SaaS Backend](https://github.com/oparag-dev/my-saas-project)**
+Serverless AWS backend with tenant isolation, Cognito auth, DynamoDB, Lambda,
+API Gateway, S3 audit logs, CloudWatch, Terraform.
+
+**[Event-Driven Microservices on ECS](https://github.com/oparag-dev/ecs-event-driven-microservices)**
+Four-service architecture on ECS Fargate with ALB, SQS, CloudWatch, Docker,
+Terraform.
+
+**AWS Security Data Pipeline**
+Log collection, monitoring and cloud security analysis.
+
+## 💻 Stack
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
@@ -29,39 +49,12 @@
 ![IAM](https://img.shields.io/badge/IAM-Security-DD344C?logo=amazonaws)
 ![VPC](https://img.shields.io/badge/VPC-Networking-232F3E?logo=amazonaws)
 
-## 🚀 Featured Projects
+## 🧠 How I build
 
-- **Multi-Tenant FinTech SaaS Backend**  
-  Serverless AWS SaaS backend with tenant isolation, Cognito authentication, DynamoDB, Lambda, API Gateway, S3 audit logs, CloudWatch, and Terraform.
+Security first. Cost-aware architecture. Automation over manual work.
+Documentation good enough that someone else can run it.
 
-- **Secure Event-Driven Microservices on ECS**  
-  Four-service microservices architecture using ECS Fargate, ALB, SQS, CloudWatch, Docker, and Terraform.
+## 👯 Open to
 
-- **AWS Security Data Pipeline**  
-  Security-focused data pipeline project for log collection, monitoring, and cloud security analysis.
-  
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oparag-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=oparag-dev&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oparag-dev&theme=dark&hide_border=false&layout=compact)
-
-# 🚀 Current Focus:
-
-- Building production-style AWS projects with Terraform  
-- Improving cloud security and infrastructure automation skills  
-- Learning Kubernetes, GitOps, and platform engineering practices  
-- Contributing value to beginner-friendly and infrastructure-focused open-source projects  
-- Documenting projects clearly through READMEs, diagrams, and technical write-ups  
-
-# 🧠 Engineering Principles I Care About:
-
-- Security first  
-- Cost-aware architecture  
-- Clear documentation  
-- Reliable infrastructure  
-- Scalable system design  
-- Automation over manual work  
-- Practical value over unnecessary features  
+Collaboration on cloud, DevOps, platform engineering and backend
+infrastructure projects.
