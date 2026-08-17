@@ -104,18 +104,6 @@ A serverless SaaS backend built with AWS Lambda, API Gateway, Cognito, DynamoDB,
 
 [View project](https://github.com/oparag-dev/my-saas-project)
 
-## Current Work
-
-At inq. Digital Nigeria, I support provisioning assurance and service operations.
-
-My work includes:
-
-- Validating service configurations and provisioning records
-- Supporting SLA-driven upgrades, suspensions, and reactivations
-- Investigating service and data inconsistencies
-- Coordinating issue resolution across technical teams
-- Supporting monitoring, firewall, VPN, and network segmentation tasks
-- Improving operational documentation and service accuracy
 
 ## Engineering Approach
 
