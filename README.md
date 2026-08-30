@@ -1,4 +1,4 @@
-# Opara Gospel Chukwuebuka
+# Gospel Opara
 
 **Cloud and DevOps Engineer | AWS | Terraform | Kubernetes | Cloud Security**
 
